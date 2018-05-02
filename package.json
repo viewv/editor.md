@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/pandao/editor.md/issues"
   },
-  "homepage": "https://github.com/pandao/editor.md",
+  "homepage": "https://viewv.github.io/editor.md",
   "devDependencies": {
     "dateformatter": "^0.1.0",
     "gulp": "^3.8.11",
